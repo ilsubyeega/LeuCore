@@ -12,13 +12,13 @@ public class JoinQuitEvent implements Listener {
     @EventHandler
     public void onPlayerJoin(PlayerJoinEvent event)
     {
-        event.setJoinMessage("§a§l[§a✓§a§] §f" + event.getPlayer().getName());
+        event.setJoinMessage("§a§l[§a✓§a] §f" + event.getPlayer().getName());
     }
 
     @EventHandler
     public void onPlayerQuit(PlayerQuitEvent event)
     {
-        event.setQuitMessage("§c§l[§c✗§c§] §f" + event.getPlayer().getName());
+        event.setQuitMessage("§c§l[§c✗§c] §f" + event.getPlayer().getName());
     }
 
 }
