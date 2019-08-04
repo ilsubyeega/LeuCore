@@ -1,0 +1,11 @@
+name: LeuCore
+version: 0.1
+author: ilsubyeega
+main: me.ilsubyeega.LeuCore.Main
+commands:
+  test:
+    description: For Testing
+    usage: /test
+  돈:
+    description: For Testing
+    usage: /돈
