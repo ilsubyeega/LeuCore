@@ -10,7 +10,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/libs/Vault.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/spigot-api-1.12.2-R0.1-20180712.012057-156.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -28,7 +28,16 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/libs/spigot-api-1.12.2-R0.1-20180712.012057-156.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/VaultAPI-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/17.0.0/annotations-17.0.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
